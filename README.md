@@ -6,7 +6,7 @@ A growing collection of my personal notes exploring linear regression fundamenta
 - **Univariate Linear Regression** — Simple one-variable relationships.
 - **Multiple Linear Regression** — Extending to multiple predictors.
 
-## Sample Image
+## Sample Images
 **1. Contour Plot Explanation (image on left)** <br>
 **2. Checking Gradient Descent for Convergence (image on right)**
 
@@ -25,6 +25,14 @@ These notes are a blend of:
 - Browse the notes directly on GitHub.
 - Clone the repo to explore and run any examples locally.
 - Expect updates frequently; check back for new insights.
+
+## Contribution & Feedback
+This project is meant to grow over time.  
+If you notice missing topics, errors, or would like me to cover specific aspects of Linear Regression, feel free to:
+
+- Open an [issue](../../issues) describing your suggestion or request.  
+- Create a pull request with additional notes or corrections.  
+- Share feedback through discussions to help improve these resources.  
 
 ---
 

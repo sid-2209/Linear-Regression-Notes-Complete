@@ -7,6 +7,7 @@ A growing collection of my personal notes exploring linear regression fundamenta
 - **Multiple Linear Regression** — Extending to multiple predictors.
 
 ## Sample Image
+#### Contour Plot Explanation:
 ![Contour Plot Explanation](assets/SampleImage.png)
 
 ## Sources & Credits

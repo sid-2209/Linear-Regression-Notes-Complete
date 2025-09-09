@@ -7,8 +7,13 @@ A growing collection of my personal notes exploring linear regression fundamenta
 - **Multiple Linear Regression** — Extending to multiple predictors.
 
 ## Sample Image
-#### Contour Plot Explanation:
-![Contour Plot Explanation](assets/SampleImage.png)
+**1. Contour Plot Explanation (image on left)** <br>
+**2. Checking Gradient Descent for Convergence (image on right)**
+
+<p align="left">
+  <img src="assets/SampleImage.png" alt="Contour Plot Explanation" width="45%" align="top"/>
+  <img src="assets/SampleImage2.png" alt="Cost Function Curve" width="45%" align="top"/>
+</p>
 
 ## Sources & Credits
 These notes are a blend of:
